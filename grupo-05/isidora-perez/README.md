@@ -28,3 +28,4 @@ Utilicé IA solo para consultarle a cerca de cómo insertar una nueva tipografí
 }
 ```
 ### Actividad 3
+No realicé uso de inteligencia artificial, ya que fue una actividad que se realizó en conjunto durante la clase
